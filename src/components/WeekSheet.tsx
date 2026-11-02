@@ -38,7 +38,7 @@ function SimpleTable({ title, header, rows, onChange, onAdd }: {
     <table className="w-full border-collapse text-sm">
       <thead>
         <tr><th colSpan={3} className="bg-primary px-3 py-2 text-left font-bold text-primary-foreground">{title}</th></tr>
-        <tr>
+        <tr className="bg-muted font-bold text-primary">
           <th className="w-36 border px-2 py-1 text-left">Datum</th>
           <th className="w-36 border px-2 py-1 text-left">Deadline datum</th>
           <th className="w-32 border px-2 py-1 text-left">Eigenaar</th>
