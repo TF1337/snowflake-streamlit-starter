@@ -1,4 +1,4 @@
-import { KPI_COLUMNS, priorityTone, type KpiRow, type SimpleRow, type Week } from "@/lib/prestatie";
+import { EIGENAAR_OPTIES, KPI_COLUMNS, priorityTone, type KpiRow, type SimpleRow, type Week } from "@/lib/prestatie";
 import { cn } from "@/lib/utils";
 
 const toneClass = {
@@ -18,6 +18,18 @@ function Cell({ value, onChange, className }: { value: string; onChange: (v: str
   );
 }
 
+function OwnerCell({ value, onChange }: { value: string; onChange: (v: string) => void }) {
+  return (
+    <input
+      list="eigenaar-opties"
+      value={value}
+      onChange={(e) => onChange(e.target.value)}
+      className="sheet-cell w-full"
+      placeholder="—"
+    />
+  );
+}
+
 function SimpleTable({ title, header, rows, onChange, onAdd }: {
   title: string; header: string; rows: SimpleRow[];
   onChange: (i: number, k: keyof SimpleRow, v: string) => void; onAdd: () => void;
@@ -26,24 +38,29 @@ function SimpleTable({ title, header, rows, onChange, onAdd }: {
     <table className="w-full border-collapse text-sm">
       <thead>
         <tr><th colSpan={3} className="bg-primary px-3 py-2 text-left font-bold text-primary-foreground">{title}</th></tr>
-        <tr className="bg-muted font-bold text-primary">
+        <tr>
           <th className="w-36 border px-2 py-1 text-left">Datum</th>
           <th className="w-36 border px-2 py-1 text-left">Deadline datum</th>
+          <th className="w-32 border px-2 py-1 text-left">Eigenaar</th>
           <th className="border px-2 py-1 text-left">{header}</th>
         </tr>
       </thead>
       <tbody>
         {rows.map((r, i) => (
           <tr key={i}>
-            {(["datum", "deadline", "omschrijving"] as const).map((k) => (
-              <td key={k} className="border p-0 align-top"><Cell value={r[k]} onChange={(v) => onChange(i, k, v)} /></td>
-            ))}
+            <td className="border p-0 align-top"><Cell value={r.datum} onChange={(v) => onChange(i, "datum", v)} /></td>
+            <td className="border p-0 align-top"><Cell value={r.deadline} onChange={(v) => onChange(i, "deadline", v)} /></td>
+            <td className="border p-0 align-top"><OwnerCell value={r.eigenaar} onChange={(v) => onChange(i, "eigenaar", v)} /></td>
+            <td className="border p-0 align-top"><Cell value={r.omschrijving} onChange={(v) => onChange(i, "omschrijving", v)} /></td>
           </tr>
         ))}
-        <tr><td colSpan={3} className="border p-0">
+        <tr><td colSpan={4} className="border p-0">
           <button onClick={onAdd} className="w-full px-2 py-1 text-left text-xs text-muted-foreground hover:bg-accent">+ rij toevoegen</button>
         </td></tr>
       </tbody>
+      <datalist id="eigenaar-opties">
+        {EIGENAAR_OPTIES.map((n) => <option key={n} value={n} />)}
+      </datalist>
     </table>
   );
 }
@@ -62,7 +79,7 @@ export function WeekSheet({ week, onChange }: { week: Week; onChange: (w: Week) 
   const setSimple = (list: "acties" | "pdca") => (i: number, k: keyof SimpleRow, v: string) =>
     onChange({ ...week, [list]: week[list].map((r, ri) => ri !== i ? r : { ...r, [k]: v }) });
   const addSimple = (list: "acties" | "pdca") => () =>
-    onChange({ ...week, [list]: [...week[list], { datum: "", deadline: "", omschrijving: "" }] });
+    onChange({ ...week, [list]: [...week[list], { datum: "", deadline: "", eigenaar: "", omschrijving: "" }] });
 
   return (
     <div className="space-y-6 bg-card p-4 shadow-sm">
