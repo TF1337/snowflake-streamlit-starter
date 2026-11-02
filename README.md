@@ -27,3 +27,9 @@ npm run dev
 - TypeScript
 - React
 - Tailwind CSS
+
+## Prestatie Verantwoorden & Sturen (OFM LDC 2026)
+
+- `src/data/prestatie.json` — alle weken uit het Excel-bestand (opnieuw genereren: `python3 scripts/extract_excel.py bestand.xlsx`).
+- `src/components/AgendaSheet.tsx` / `WeekSheet.tsx` — de tabbladen Agenda en Week xx.
+- `snowflake/schema.sql` — bijbehorende tabellen voor Streamlit in Snowflake.
