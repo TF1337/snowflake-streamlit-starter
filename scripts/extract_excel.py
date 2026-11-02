@@ -1,10 +1,32 @@
 """Converteert het PrestatieSturen Excel-bestand naar src/data/prestatie.json.
 Gebruik: python3 scripts/extract_excel.py pad/naar/bestand.xlsx"""
-import json, sys, datetime
+import json, sys, datetime, re
 from openpyxl import load_workbook
 
 KPI_COLS = ["kpi","datum","norm","actueel","afwijking","impact","locatie","prioriteit","escalatie","categorie","verbeteractie"]
 SECTIONS = ["Veiligheid","Kwaliteit","Productiviteit","Personeel"]
+NAMES = ["Rakesh","Dylan","Joris","Jelle","Barry","Jesse"]
+
+def split_owner(omschrijving):
+    """Haal eigenaarsnamen uit de omschrijving en geef (omschrijving, eigenaar) terug."""
+    o = omschrijving
+    found = [n for n in NAMES if re.search(rf"\b{n}\b", o, re.I)]
+    if not found:
+        m = re.search(r"[~\-]\s*([A-Za-z]+)\s*$", o)
+        if m:
+            cands = [n for n in NAMES if n.lower().startswith(m.group(1).lower())]
+            if len(cands) == 1:
+                found = [cands[0]]
+    if not found:
+        return omschrijving, ""
+    owner = " & ".join(found)
+    for n in found:
+        o = re.sub(rf"[~\-,&]?\s*\b{n}\b[,.]?\s*", " ", o, flags=re.I)
+    o = o.replace("~", " ")
+    o = re.sub(r"\s+", " ", o).strip(" -&,.")
+    if o.lower() == "actie":
+        o = ""
+    return o, owner
 
 def val(c):
     v = c.value
