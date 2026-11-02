@@ -1,0 +1,4289 @@
+{
+ "weeks": [
+  {
+   "week": "Week 31",
+   "sections": [
+    {
+     "naam": "Veiligheid",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "2026-07-31",
+       "norm": "x",
+       "actueel": "x",
+       "afwijking": "Losse aanrijbeveiliging geconstateerd bij Dock 5",
+       "impact": "Groter risico op beschadigingen",
+       "locatie": "OFM",
+       "prioriteit": "Rood",
+       "escalatie": "N",
+       "categorie": "Just Do It",
+       "verbeteractie": "Just Do It"
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Kwaliteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Productiviteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "BF",
+       "datum": "2026-07-28",
+       "norm": "11",
+       "actueel": "8.6",
+       "afwijking": "We hebben gezien dat we de hele week onder de norm zaten bij het afhalen.",
+       "impact": "Vertraagt afhalen zorgt voor langere bezetting SGT's",
+       "locatie": "OFM",
+       "prioriteit": "Oranje",
+       "escalatie": "Nee",
+       "categorie": "Just Do It",
+       "verbeteractie": "We hebben de desbetreffende medewerkers aangesproken op hun productiviteit"
+      },
+      {
+       "kpi": "AV/NF",
+       "datum": "2026-08-03",
+       "norm": "30",
+       "actueel": "16.1",
+       "afwijking": "We hebben gezien dat we de hele week, en zelfs de maand onder de norm zaten bij het verwerken.",
+       "impact": "Weining, we besteden wel te veel uren",
+       "locatie": "OFM",
+       "prioriteit": "Oranje",
+       "escalatie": "Nee",
+       "categorie": "Just Do It",
+       "verbeteractie": "Just Do It"
+      }
+     ]
+    },
+    {
+     "naam": "Personeel",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    }
+   ],
+   "acties": [
+    {
+     "datum": "2026-07-31",
+     "deadline": "2026-07-31",
+     "omschrijving": "Just Do It: Gemeld bij TD en is de volgende dag gelijk gefixt."
+    },
+    {
+     "datum": "2026-08-03",
+     "deadline": "2026-08-03",
+     "omschrijving": "Just Do It:Tijdens de dagstart besproken dat we de hele week+maand onder norm zaten en dat het niet lag aan het klokken. Gister en vandaag was de AV productie er een suk sneller doorheen en op norm."
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ],
+   "pdca": [
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ]
+  },
+  {
+   "week": "Week 32",
+   "sections": [
+    {
+     "naam": "Veiligheid",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "2026-08-12",
+       "norm": "x",
+       "actueel": "x",
+       "afwijking": "Bijna incident laad & los dock",
+       "impact": "Onveilige situatie",
+       "locatie": "LDC",
+       "prioriteit": "ROOD",
+       "escalatie": "N",
+       "categorie": "JDI",
+       "verbeteractie": "Medewerker aanspreken"
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Kwaliteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "2026-08-07",
+       "norm": "98%",
+       "actueel": "96%",
+       "afwijking": "SLA vrijdag  niet gehaald - HC outbound",
+       "impact": "19 orders niet op tijd",
+       "locatie": "LDC - HC",
+       "prioriteit": "ORANJE",
+       "escalatie": "N",
+       "categorie": "JDI",
+       "verbeteractie": "Uitzoeken welke orders te laat waren"
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Productiviteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "2026-08-06",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "Lege pallets uithalen kost veel tijd, dit gaat in de uren van magazijnbeheer zitten.",
+       "impact": "FTE en SGT capaciteit kwijt aan magazijnbeheer, lege pallets die locaties bezet houden",
+       "locatie": "OFM",
+       "prioriteit": "Groen",
+       "escalatie": "N",
+       "categorie": "PDCA",
+       "verbeteractie": "Kijken of alle opdrachten waar een pallet leeg word gepickt als Full-Pallet uitgevoerd kan worden"
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Personeel",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    }
+   ],
+   "acties": [
+    {
+     "datum": "",
+     "deadline": "2026-08-12",
+     "omschrijving": "Snowflake weer gaan invullen (afgerond & geborgd)"
+    },
+    {
+     "datum": "2026-08-12",
+     "deadline": "2026-08-19",
+     "omschrijving": "KPI HC onderzoeken waarom rood op 7-8"
+    },
+    {
+     "datum": "2026-08-12",
+     "deadline": "2026-08-13",
+     "omschrijving": "Medewerker die achter vrachtwagen langs fietste aanspreken"
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ],
+   "pdca": [
+    {
+     "datum": "2026-08-06",
+     "deadline": "2026-08-10",
+     "omschrijving": "Mogelijkheden bekijken (en eventueel implementeren) om opdrachten waarbij de pallet leeg word gepickt als Full-Pallet uit te laten voeren. (Afgerond)"
+    },
+    {
+     "datum": "",
+     "deadline": "2026-09-01",
+     "omschrijving": "Aanvoer vanuit PF in kaart brengen (lopend)"
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ]
+  },
+  {
+   "week": "Week 33",
+   "sections": [
+    {
+     "naam": "Veiligheid",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "2026-08-12",
+       "norm": "100",
+       "actueel": "",
+       "afwijking": "1x telefoon gebruikt betrapt!",
+       "impact": "impact op productie",
+       "locatie": "WPL",
+       "prioriteit": "oranje",
+       "escalatie": "N",
+       "categorie": "Just do it",
+       "verbeteractie": "FD Medewerker, wat mogen en kunnen wij hiermee ?"
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Kwaliteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "Week 33",
+       "norm": "95",
+       "actueel": "87.2",
+       "afwijking": "opschaling MW wat niet lukte vanuit PCR",
+       "impact": "Order niet tijdig verwerkt",
+       "locatie": "WPL",
+       "prioriteit": "Rood",
+       "escalatie": "Ja",
+       "categorie": "Just do it",
+       "verbeteractie": "Geescaleerd bij Henry"
+      },
+      {
+       "kpi": "",
+       "datum": "2026-08-10",
+       "norm": "98",
+       "actueel": "97.93",
+       "afwijking": "Afmelding en nieuwe mederwerkers haalde norm niet en daardoor te weinig output",
+       "impact": "Nét niet de SLA gehaald bij HC outbound",
+       "locatie": "HC outbound",
+       "prioriteit": "Oranje",
+       "escalatie": "N",
+       "categorie": "Just do it",
+       "verbeteractie": "Medewerkers aanspreken om te verbeteren"
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Productiviteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "Week 33",
+       "norm": "45",
+       "actueel": "30",
+       "afwijking": "Nieuwe mederwerkers halen norm niet",
+       "impact": "Te veel uren ingezet op inpak",
+       "locatie": "HC inpak / 2708",
+       "prioriteit": "Oranje",
+       "escalatie": "N",
+       "categorie": "Just Do It",
+       "verbeteractie": "Medewerkers aanspreken om te verbeteren"
+      },
+      {
+       "kpi": "",
+       "datum": "2026-08-11",
+       "norm": "8,5 (11)",
+       "actueel": "8.4",
+       "afwijking": "0,1 (2,6)",
+       "impact": "Slecht voor wee/maandprestatie",
+       "locatie": "BF",
+       "prioriteit": "Oranje",
+       "escalatie": "N",
+       "categorie": "Analyse",
+       "verbeteractie": "Kijken of de fout in Qlick / OpView / Productiviteit zit."
+      },
+      {
+       "kpi": "",
+       "datum": "Week 33",
+       "norm": "60",
+       "actueel": "44",
+       "afwijking": "Stock pick te lage norm, veel vernietiging",
+       "impact": "Picken van vernietiging duurt te lang",
+       "locatie": "WPL Stock",
+       "prioriteit": "Oranje",
+       "escalatie": "N",
+       "categorie": "PDCA",
+       "verbeteractie": "PDCA doen stock vernietiging"
+      },
+      {
+       "kpi": "",
+       "datum": "10 t/m 14",
+       "norm": "2%",
+       "actueel": "",
+       "afwijking": "achterstand PF dubbel gereprint wat uitgezocht moet worden 13 uur teveel verbruikt",
+       "impact": "extra handeling om te controlleren of orders al verwerkt zijn",
+       "locatie": "7113 order op volging WPL",
+       "prioriteit": "Oranje",
+       "escalatie": "Ja",
+       "categorie": "Just do it",
+       "verbeteractie": "Management zit hier achteraan zodat PF normaal in een flow print"
+      }
+     ]
+    },
+    {
+     "naam": "Personeel",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "Week 33",
+       "norm": "4%",
+       "actueel": "7%",
+       "afwijking": "Ziekteverzuim?",
+       "impact": "",
+       "locatie": "OFM",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "Al langer",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "LDC mederwerkers weinig input dagstart",
+       "impact": "",
+       "locatie": "LDC mto",
+       "prioriteit": "Rood",
+       "escalatie": "Ja",
+       "categorie": "PDCA",
+       "verbeteractie": "Rakesh gaat met Elvera en Irene praten"
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    }
+   ],
+   "acties": [
+    {
+     "datum": "2026-08-19",
+     "deadline": "",
+     "omschrijving": "Met Henry en Elvera bespreken: 10 dagen SLA zit WPL outbound SLA in de weg"
+    },
+    {
+     "datum": "2026-08-19",
+     "deadline": "",
+     "omschrijving": "BF palletverwerking en doosverwerking uit elkaar halen (plan 2027)"
+    },
+    {
+     "datum": "2026-08-19",
+     "deadline": "",
+     "omschrijving": "PDCA: Stock pick vernietiging"
+    },
+    {
+     "datum": "2026-08-19",
+     "deadline": "",
+     "omschrijving": "Berekening maken corvee uren per week (onderbouwing voor 2027)"
+    },
+    {
+     "datum": "2026-08-19",
+     "deadline": "",
+     "omschrijving": "Dagstart weinig input: wat te doen?"
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ],
+   "pdca": [
+    {
+     "datum": "",
+     "deadline": "2026-09-01",
+     "omschrijving": "Aanvoer vanuit PF in kaart brengen (lopend)"
+    },
+    {
+     "datum": "",
+     "deadline": "2026-08-12",
+     "omschrijving": "Snowflake weer gaan invullen (afgerond & geborgd)"
+    },
+    {
+     "datum": "2026-08-12",
+     "deadline": "2026-08-19",
+     "omschrijving": "KPI HC onderzoeken waarom rood op 7-8"
+    },
+    {
+     "datum": "2026-08-12",
+     "deadline": "2026-08-13",
+     "omschrijving": "Medewerker die achter vrachtwagen langs fietste aanspreken"
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ]
+  },
+  {
+   "week": "Week 34",
+   "sections": [
+    {
+     "naam": "Veiligheid",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "100",
+       "actueel": "",
+       "afwijking": "geen incidenten.",
+       "impact": "",
+       "locatie": "LDC",
+       "prioriteit": "Groen",
+       "escalatie": "N",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "100",
+       "actueel": "",
+       "afwijking": "geen incidenten.",
+       "impact": "",
+       "locatie": "OFM",
+       "prioriteit": "Groen",
+       "escalatie": "N",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Kwaliteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "98",
+       "actueel": "99.94",
+       "afwijking": "HC  :",
+       "impact": "",
+       "locatie": "HC",
+       "prioriteit": "Groen",
+       "escalatie": "N",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "7",
+       "actueel": "9",
+       "afwijking": "SlA Retouren tussen 8 en 9 dagen",
+       "impact": "2 dagen stil gelegen door FD Week 32 + vakantie periode",
+       "locatie": "OFM",
+       "prioriteit": "Oranje",
+       "escalatie": "J",
+       "categorie": "Just do it",
+       "verbeteractie": "Ligt bij PCR."
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Productiviteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "50",
+       "actueel": "",
+       "afwijking": "HC Picking: 1 medewerker op picking ingewerkt (4 uurtjes)",
+       "impact": "",
+       "locatie": "HC 2705",
+       "prioriteit": "Rood",
+       "escalatie": "N",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "Packing is iets verbeterd tov vorig week met nieuwe medewerkers na het gesprek.",
+       "impact": "",
+       "locatie": "HC 2708",
+       "prioriteit": "Groen",
+       "escalatie": "N",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Personeel",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "4%",
+       "actueel": "0",
+       "afwijking": "Ziekte verzuim",
+       "impact": "",
+       "locatie": "LDC",
+       "prioriteit": "groen",
+       "escalatie": "n",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "1",
+       "actueel": "0",
+       "afwijking": "Operator bezeting misten we",
+       "impact": "Ja",
+       "locatie": "OFM",
+       "prioriteit": "Oranje",
+       "escalatie": "N",
+       "categorie": "Just do It",
+       "verbeteractie": "LDC heeft OFM te hulp geschoten"
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    }
+   ],
+   "acties": [
+    {
+     "datum": "2026-08-24",
+     "deadline": "",
+     "omschrijving": "Corvee uren LDC  wekelijks 30 uren (6S ,LDC pand schoonhouden,kantine en dagelijks  opruimen en aanvullen)"
+    },
+    {
+     "datum": "2026-08-26",
+     "deadline": "2026-09-04",
+     "omschrijving": "RCA retouren SLA"
+    },
+    {
+     "datum": "2026-08-26",
+     "deadline": "2026-09-01",
+     "omschrijving": "Afronden tussenevaulaties"
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ],
+   "pdca": [
+    {
+     "datum": "",
+     "deadline": "2026-09-01",
+     "omschrijving": "Aanvoer vanuit PF in kaart brengen (klaar, staat in Teams.)"
+    },
+    {
+     "datum": "2026-08-19",
+     "deadline": "week 37",
+     "omschrijving": "Met Henry en Elvera bespreken: 10 dagen SLA zit WPL outbound SLA in de weg"
+    },
+    {
+     "datum": "2026-08-19",
+     "deadline": "2026-09-04",
+     "omschrijving": "BF palletverwerking en doosverwerking uit elkaar halen (plan 2027)"
+    },
+    {
+     "datum": "2026-08-19",
+     "deadline": "2026-09-09",
+     "omschrijving": "PDCA: Stock pick vernietiging & Bulk/legbord verdeling"
+    },
+    {
+     "datum": "2026-08-19",
+     "deadline": "2026-08-26",
+     "omschrijving": "Berekening maken corvee uren per week (onderbouwing voor 2027)"
+    },
+    {
+     "datum": "2026-08-19",
+     "deadline": "2026-09-04",
+     "omschrijving": "Dagstart weinig input: wat te doen?"
+    }
+   ]
+  },
+  {
+   "week": "Week 35",
+   "sections": [
+    {
+     "naam": "Veiligheid",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "100",
+       "actueel": "",
+       "afwijking": "geen incidenten.",
+       "impact": "",
+       "locatie": "LDC",
+       "prioriteit": "Groen",
+       "escalatie": "N",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Kwaliteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "98",
+       "actueel": "",
+       "afwijking": "HC  :",
+       "impact": "",
+       "locatie": "HC",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Productiviteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "45",
+       "actueel": "39.6",
+       "afwijking": "inpakken",
+       "impact": "",
+       "locatie": "HC",
+       "prioriteit": "rood",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "85",
+       "actueel": "70",
+       "afwijking": "Uithalen Bins",
+       "impact": "Onnefficient uithalen door bij te zijn",
+       "locatie": "WPL/7119",
+       "prioriteit": "Rood",
+       "escalatie": "N",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "20",
+       "actueel": "6.9",
+       "afwijking": "RPL stock verkeerd geklokt moest op 7104",
+       "impact": "",
+       "locatie": "WPL/7103",
+       "prioriteit": "Rood",
+       "escalatie": "N",
+       "categorie": "Just do it",
+       "verbeteractie": "Dagstart benoemen en als Teamleiders scherper op de dag hierop zijn."
+      }
+     ]
+    },
+    {
+     "naam": "Personeel",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "4%",
+       "actueel": "0",
+       "afwijking": "Ziekte verzuim",
+       "impact": "",
+       "locatie": "LDC",
+       "prioriteit": "groen",
+       "escalatie": "N",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    }
+   ],
+   "acties": [
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": "ACTIE RAKESH"
+    },
+    {
+     "datum": "2026-09-01",
+     "deadline": "2026-09-16",
+     "omschrijving": "3x vrijdagen rood gescoord bij packing/backorders komen ook weleens vrijdag waardoor ik niet kan afschalen/balen van medewerkers dat we rood scoren tijdens dagstart"
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": "Inventariseren wat medewerkers doen buiten inpakken ,of het waarde toegevoegde activiteiten zijn,en hoe lang ze bezig zijn."
+    },
+    {
+     "datum": "2026-09-02",
+     "deadline": "2026-09-08",
+     "omschrijving": "Aanvraag doen scherm in Atoss met huidige MW en klokcodes waar operators ook bij mogen (Link ontvangen, maar werkt nog niet naar behoren, word vervolgt)"
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ],
+   "pdca": [
+    {
+     "datum": "2026-08-19",
+     "deadline": "week 37",
+     "omschrijving": "Met Henry en Elvera bespreken: 10 dagen SLA zit WPL outbound SLA in de weg (Prio is oude orders, besproken met Henry)"
+    },
+    {
+     "datum": "2026-08-19",
+     "deadline": "2026-09-04",
+     "omschrijving": "BF palletverwerking en doosverwerking uit elkaar halen (plan 2027)"
+    },
+    {
+     "datum": "2026-08-19",
+     "deadline": "2026-09-08",
+     "omschrijving": "PDCA: Stock pick vernietiging & Bulk/legbord verdeling (afgerond, PDCA staat in de lijst)"
+    },
+    {
+     "datum": "2026-08-19",
+     "deadline": "2026-09-04",
+     "omschrijving": "Dagstart weinig input: wat te doen? (Irene heeft input gehad)"
+    },
+    {
+     "datum": "2026-08-26",
+     "deadline": "2026-09-04",
+     "omschrijving": "RCA retouren SLA"
+    },
+    {
+     "datum": "2026-08-26",
+     "deadline": "2026-09-21",
+     "omschrijving": "Afronden tussenevaulaties (LDC afgerond)"
+    }
+   ]
+  },
+  {
+   "week": "Week 36",
+   "sections": [
+    {
+     "naam": "Veiligheid",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Kwaliteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Productiviteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "60",
+       "actueel": "44.5",
+       "afwijking": "Vernietigingen/truckwerkzaamheden uit stock",
+       "impact": "",
+       "locatie": "7104",
+       "prioriteit": "Rood",
+       "escalatie": "N",
+       "categorie": "PDCA",
+       "verbeteractie": "Slotting"
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "7",
+       "actueel": "1.1",
+       "afwijking": "We hebben veel gestapeld en voorbereid maar niet verwerkt. Deze week hebben we dat ingehaald",
+       "impact": "n.v.t.",
+       "locatie": "VH/VD",
+       "prioriteit": "Groen",
+       "escalatie": "N",
+       "categorie": "n.v.t.",
+       "verbeteractie": "n.v.t."
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "30",
+       "actueel": "29.5",
+       "afwijking": "Verminderde productiviteit door collega met minder ervaring, was nodig i.v.m. ziekmelding ervaren collega",
+       "impact": "AF/NF dagproductie liep door naar de avonddienst",
+       "locatie": "AF/NF",
+       "prioriteit": "Oranje",
+       "escalatie": "N",
+       "categorie": "Just Do It",
+       "verbeteractie": "Meerdere collega's trainen op AF/NF"
+      }
+     ]
+    },
+    {
+     "naam": "Personeel",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "Tekort aan personeel i.v.m. ziekte & uitval",
+       "impact": "Verminderde productiviteit dagploeg, leiding meewerken in productie",
+       "locatie": "OFM Algemeen",
+       "prioriteit": "Rood",
+       "escalatie": "J",
+       "categorie": "Just Do It",
+       "verbeteractie": "Opschalen Zondag, inleen regelen door de weeks."
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    }
+   ],
+   "acties": [
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ],
+   "pdca": [
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ]
+  },
+  {
+   "week": "Week 37",
+   "sections": [
+    {
+     "naam": "Veiligheid",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "2026-09-08",
+       "norm": "0",
+       "actueel": "1",
+       "afwijking": "Schade aan stelling door aanreiding met pallet.",
+       "impact": "1 incident, locaties geblokkeerd, tijd kwijt aan leeghalen locaties",
+       "locatie": "OFM Gang 40",
+       "prioriteit": "Rood",
+       "escalatie": "N",
+       "categorie": "Just Do It",
+       "verbeteractie": "Palletposities controleren, incodent meerdere keren benoemen in dagstart. Impact duidelijk maken."
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "Groen",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Kwaliteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "2026-09-14",
+       "norm": "95",
+       "actueel": "87.7",
+       "afwijking": "Oude orders met annuleren van laastse boekje",
+       "impact": "",
+       "locatie": "WPL",
+       "prioriteit": "Rood",
+       "escalatie": "N",
+       "categorie": "Just Do It",
+       "verbeteractie": "Dagelijks check in met PF"
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Productiviteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "2026-09-14",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "Groen",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": "Mooie week (index 85 %)"
+      },
+      {
+       "kpi": "Inslag",
+       "datum": "",
+       "norm": "9",
+       "actueel": "8",
+       "afwijking": "Onder norm gescoord op inslag vanwege inzet minder ervaren collega's en niet laten oplopen van inslag.",
+       "impact": "-11.68",
+       "locatie": "OFM",
+       "prioriteit": "Oranje",
+       "escalatie": "N",
+       "categorie": "n.v.t.",
+       "verbeteractie": "n.v.t."
+      },
+      {
+       "kpi": "Leiding",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "Overwerken leiding, te veel uren ingezet",
+       "impact": "-5.27",
+       "locatie": "OFM",
+       "prioriteit": "groen",
+       "escalatie": "N",
+       "categorie": "n.v.t.",
+       "verbeteractie": "n.v.t."
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Personeel",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "1 ziekmelding",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "BF & AF/NF",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "Door ziekte hebben we moeten schuiven met personeel, daardoor kwamen we erachter dat we meer mensen met BFPV en AF/NF compenenties nodg hadden",
+       "impact": "Minder goed gescoord dan mogelijk is.",
+       "locatie": "BF & AF/NF",
+       "prioriteit": "Oranje",
+       "escalatie": "N",
+       "categorie": "Just Do It",
+       "verbeteractie": "Mensen indewerken op BFPV (& PF) en AF/NF compententies"
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    }
+   ],
+   "acties": [
+    {
+     "datum": "2026-09-16",
+     "deadline": "2026-09-30",
+     "omschrijving": "Juiste afspraken maken over overcapaciteit inzetten OMF/LDC - Jelle"
+    },
+    {
+     "datum": "2026-09-16",
+     "deadline": "2026-10-07",
+     "omschrijving": "Evaluatie Educatieve seizoen plannen - Elvera"
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ],
+   "pdca": [
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ]
+  },
+  {
+   "week": "Week 38",
+   "sections": [
+    {
+     "naam": "Veiligheid",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "2026-09-22",
+       "norm": "0",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "LDC",
+       "prioriteit": "groen",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Kwaliteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "2026-09-22",
+       "norm": "95",
+       "actueel": "89.9",
+       "afwijking": "Oude orders annuleren en late orders PF",
+       "impact": "",
+       "locatie": "LDC-WPL Print",
+       "prioriteit": "rood",
+       "escalatie": "N",
+       "categorie": "Late orders",
+       "verbeteractie": "Printforce moet de oude orders voornamelijk hardcover zsm printen in het dagelijks check in bespreken"
+      },
+      {
+       "kpi": "",
+       "datum": "2026-09-22",
+       "norm": "98",
+       "actueel": "97.76",
+       "afwijking": "Maandag storing Astro ,en dinsdag niet kunnen inlopen.",
+       "impact": "",
+       "locatie": "LDC-HC",
+       "prioriteit": "rood",
+       "escalatie": "N",
+       "categorie": "",
+       "verbeteractie": "7 orders te laat"
+      }
+     ]
+    },
+    {
+     "naam": "Productiviteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "2026-09-22",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "Grote Pulping order (50K)",
+       "impact": "7104",
+       "locatie": "WPL",
+       "prioriteit": "rood",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": "vernietinging orders registreren in een exccel lijst."
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Personeel",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "2026-09-22",
+       "norm": "4%",
+       "actueel": "",
+       "afwijking": "1 x ziekmelding",
+       "impact": "",
+       "locatie": "LDC",
+       "prioriteit": "",
+       "escalatie": "N",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    }
+   ],
+   "acties": [
+    {
+     "datum": "2026-09-16",
+     "deadline": "2026-09-30",
+     "omschrijving": "Juiste afspraken maken over overcapaciteit inzetten OMF/LDC - Jelle"
+    },
+    {
+     "datum": "2026-09-22",
+     "deadline": "",
+     "omschrijving": "Bespreken criteria aannemen nieuwe medewerkers.  -Rakesh"
+    },
+    {
+     "datum": "2026-09-23",
+     "deadline": "2026-09-30",
+     "omschrijving": "Onderzoek: orders vrijdag 18-9 25% te laat bij weinig aanbod. - Rakesh"
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": "Voorbereiding eindejaar: Prognose - Planning - PCR - Locaties - Materieel ~Jesse"
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ],
+   "pdca": [
+    {
+     "datum": "2026-08-19",
+     "deadline": "2026-10-07",
+     "omschrijving": "PDCA: Stock pick vernietiging & Bulk/legbord verdeling"
+    },
+    {
+     "datum": "2026-09-16",
+     "deadline": "2026-10-07",
+     "omschrijving": "Evaluatie Educatieve seizoen plannen - Elvera"
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ]
+  },
+  {
+   "week": "Week 39",
+   "sections": [
+    {
+     "naam": "Veiligheid",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Kwaliteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Productiviteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "OFM",
+       "datum": "wk 39",
+       "norm": "9",
+       "actueel": "8.1",
+       "afwijking": "0,9 onder norm waardoor we 11,86 uur teveel hebben ingezet.",
+       "impact": "n.v.t.",
+       "locatie": "OFM",
+       "prioriteit": "Groen",
+       "escalatie": "N",
+       "categorie": "Just Do It",
+       "verbeteractie": "Dagelijkse productiviteit check inslag en bespreken met medewerker."
+      },
+      {
+       "kpi": "RM",
+       "datum": "WK 39",
+       "norm": "50",
+       "actueel": "41.7",
+       "afwijking": "8.3 onder norm gescoord waardoor we 63,70 uur te veel hebben ingezet",
+       "impact": "n.v.t.",
+       "locatie": "RM",
+       "prioriteit": "Oranje",
+       "escalatie": "N",
+       "categorie": "n.v.t.",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "LDC",
+       "datum": "WK 39",
+       "norm": "60",
+       "actueel": "29",
+       "afwijking": "onder norm gescoord door stapelen en samenvoegen van vernietigingen op volle pallets.",
+       "impact": "",
+       "locatie": "Orderpick stock",
+       "prioriteit": "Rood",
+       "escalatie": "J",
+       "categorie": "",
+       "verbeteractie": "PDCA: Stock pick vernietiging & Bulk/legbord verdeling"
+      }
+     ]
+    },
+    {
+     "naam": "Personeel",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    }
+   ],
+   "acties": [
+    {
+     "datum": "2026-09-16",
+     "deadline": "2026-10-14",
+     "omschrijving": "Juiste afspraken maken over overcapaciteit inzetten OMF/LDC - Jelle"
+    },
+    {
+     "datum": "",
+     "deadline": "2026-10-07",
+     "omschrijving": "Vernietiging PCR plannen & 10 dagen SLA"
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ],
+   "pdca": [
+    {
+     "datum": "2026-08-19",
+     "deadline": "2026-10-07",
+     "omschrijving": "PDCA:  Bulk/legbord verdeling"
+    },
+    {
+     "datum": "2026-09-16",
+     "deadline": "2026-10-07",
+     "omschrijving": "Evaluatie Educatieve seizoen plannen - Elvera"
+    },
+    {
+     "datum": "",
+     "deadline": "2026-10-14",
+     "omschrijving": "Voorbereiding eindejaar: Prognose - Planning - PCR - Locaties - Materieel ~Jesse"
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ]
+  },
+  {
+   "week": "Week 40",
+   "sections": [
+    {
+     "naam": "Veiligheid",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "OFM",
+       "datum": "2026-09-29",
+       "norm": "0",
+       "actueel": "1",
+       "afwijking": "Er zijn 2 trucks (EPT) tegen elkaar gebotst, 1 van de truck bestuurders was aan het bellen (voor werk) en hierdoor afgeleid.",
+       "impact": "onveilige situatie",
+       "locatie": "BF pallet verwerking / bakken vullen",
+       "prioriteit": "Oranje",
+       "escalatie": "N",
+       "categorie": "JDI",
+       "verbeteractie": "Niet meer bellen en een truck besturen tegelijk."
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Kwaliteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "LDC",
+       "prioriteit": "Groen",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "Vernietiging (1705)",
+       "datum": "2026-09-29",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "Voor een kleine 10 titels te veel voorraad vernietigd dan door de uitgeven gevraagd",
+       "impact": "Boze uitgevers",
+       "locatie": "OFM Vernietiging",
+       "prioriteit": "Oranje",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Productiviteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "WK 40",
+       "norm": "60",
+       "actueel": "26.5",
+       "afwijking": "Orderpick stock ,dit zijn de vernietigingen",
+       "impact": "nvt",
+       "locatie": "WPL",
+       "prioriteit": "Groen",
+       "escalatie": "N",
+       "categorie": "Just Do It",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Personeel",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "wk40",
+       "norm": "4.5",
+       "actueel": "",
+       "afwijking": "2 medewerkers ziek",
+       "impact": "nvt",
+       "locatie": "LDC",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "week 40",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "2x kort (2 en 4 dagen)\n2x lang",
+       "impact": "",
+       "locatie": "OFM",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    }
+   ],
+   "acties": [
+    {
+     "datum": "2026-10-07",
+     "deadline": "2026-10-14",
+     "omschrijving": "Correcties ATOSS - Henk (en waar moet hij op klokken) ~ Joris"
+    },
+    {
+     "datum": "2026-10-07",
+     "deadline": "2026-10-14",
+     "omschrijving": "SLA Vernietiging meenemen dagstart ~ Jelle"
+    },
+    {
+     "datum": "2026-10-07",
+     "deadline": "2026-10-14",
+     "omschrijving": "Magazijnbeheer inventarisatie ~ Joris"
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ],
+   "pdca": [
+    {
+     "datum": "2026-08-19",
+     "deadline": "2026-10-14",
+     "omschrijving": "PDCA:  Bulk/legbord verdeling"
+    },
+    {
+     "datum": "2026-09-16",
+     "deadline": "2026-10-14",
+     "omschrijving": "Juiste afspraken maken over overcapaciteit inzetten OMF/LDC - Jelle"
+    },
+    {
+     "datum": "2026-09-16",
+     "deadline": "2026-10-14",
+     "omschrijving": "Evaluatie Educatieve seizoen plannen - Elvera"
+    },
+    {
+     "datum": "2026-10-07",
+     "deadline": "2026-10-14",
+     "omschrijving": "Magazijnbeheer inventarisatie ~ Joris"
+    },
+    {
+     "datum": "2026-10-01",
+     "deadline": "2026-10-14",
+     "omschrijving": "Voorbereiding eindejaar: Prognose - Planning - PCR - Locaties - Materieel ~Jesse"
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ]
+  },
+  {
+   "week": "Week 41",
+   "sections": [
+    {
+     "naam": "Veiligheid",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Kwaliteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "98",
+       "actueel": "92.3",
+       "afwijking": "Vrijdag orders zijn niet afgesloten en pas op Maandag gedaan.",
+       "impact": "",
+       "locatie": "HC",
+       "prioriteit": "Groen",
+       "escalatie": "N",
+       "categorie": "Justdoit",
+       "verbeteractie": "We gaan de checklist aanvullen op de eindraportage."
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Productiviteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "60",
+       "actueel": "38.9",
+       "afwijking": "Orderpick stock 19 uur teveel verbuikt in de week i.v.m. vernietigingen. De Laatste 9k exemplaren zijn eruit en waren geen volle pallets en moesten gestapeld worden.",
+       "impact": "",
+       "locatie": "7104",
+       "prioriteit": "Groen",
+       "escalatie": "N",
+       "categorie": "",
+       "verbeteractie": "Vernietigingen zijn klaar!"
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "120",
+       "actueel": "98.9",
+       "afwijking": "Grote orders die via de consolidatie moesten, Medewerkers vanuit LCS heeft bij de consolidatie geholpen en was weer zoekende",
+       "impact": "",
+       "locatie": "7107",
+       "prioriteit": "Goen",
+       "escalatie": "N",
+       "categorie": "Justdoit",
+       "verbeteractie": "We hebben de medewerker ondersteund waar nodig is."
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "100",
+       "actueel": "3.4",
+       "afwijking": "Medewerker heeft verkeerd geklokt er word nog wel eens vergeten om om te klokken tussen HC en WPL, voor ons is het lastig om add-hoc te kunnen inzien met welke producten ze bezig zijn.",
+       "impact": "",
+       "locatie": "7102",
+       "prioriteit": "Groen",
+       "escalatie": "N",
+       "categorie": "PDCA",
+       "verbeteractie": "meer tijd nodig voor een PDCA"
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Personeel",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    }
+   ],
+   "acties": [
+    {
+     "datum": "2026-10-14",
+     "deadline": "2026-10-21",
+     "omschrijving": "Onderzoek doen naar aantallen verdichten rapportage ~ Jesse"
+    },
+    {
+     "datum": "2026-10-14",
+     "deadline": "2026-10-21",
+     "omschrijving": "Trigger voor oude openstaande gepikte orders ~ Dylan"
+    },
+    {
+     "datum": "2026-10-14",
+     "deadline": "2026-10-21",
+     "omschrijving": "Eindrapportage toevoegen alle orders gesloten ~ (onderzoek automatisch sluiten) ~ Dylan"
+    },
+    {
+     "datum": "2026-10-14",
+     "deadline": "2026-10-30",
+     "omschrijving": "PDCA inbound WPL&HC ~ Rakesh en Dylan"
+    },
+    {
+     "datum": "2026-10-07",
+     "deadline": "2026-10-21",
+     "omschrijving": "Magazijnbeheer inventarisatie: Wat is magazijnbeheer (en wat niet) ~ Joris & Jesse"
+    },
+    {
+     "datum": "2026-08-19",
+     "deadline": "2026-10-21",
+     "omschrijving": "PDCA:  Bulk/legbord verdeling ~ Dylan ~Volgende week eerste pallets - daarna check"
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ],
+   "pdca": [
+    {
+     "datum": "2026-10-07",
+     "deadline": "2026-10-14",
+     "omschrijving": "Correcties ATOSS - Henk (en waar moet hij op klokken) ~ Joris"
+    },
+    {
+     "datum": "2026-10-07",
+     "deadline": "2026-10-14",
+     "omschrijving": "SLA Vernietiging meenemen dagstart ~ Jelle"
+    },
+    {
+     "datum": "2026-10-07",
+     "deadline": "2026-10-14",
+     "omschrijving": "Magazijnbeheer inventarisatie ~ Joris"
+    },
+    {
+     "datum": "2026-08-19",
+     "deadline": "2026-10-14",
+     "omschrijving": "PDCA:  Bulk/legbord verdeling"
+    },
+    {
+     "datum": "2026-09-16",
+     "deadline": "2026-10-14",
+     "omschrijving": "Juiste afspraken maken over overcapaciteit inzetten OMF/LDC - Jelle"
+    },
+    {
+     "datum": "2026-09-16",
+     "deadline": "2026-10-14",
+     "omschrijving": "Evaluatie Educatieve seizoen plannen - Elvera"
+    },
+    {
+     "datum": "2026-10-01",
+     "deadline": "2026-10-14",
+     "omschrijving": "Voorbereiding eindejaar: Prognose - Planning - PCR - Locaties - Materieel ~Jesse"
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ]
+  },
+  {
+   "week": "Week 42",
+   "sections": [
+    {
+     "naam": "Veiligheid",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "2026-10-15",
+       "norm": "0",
+       "actueel": "1",
+       "afwijking": "Tijdens het picken is er een doos gevallen, dit kwam omdat er niet laag voor laag gepickt was maar er een ''trap'' was gebouwd.",
+       "impact": "1 bijna incident en schade aan de plastic kap van truck 512",
+       "locatie": "OFM",
+       "prioriteit": "Groen",
+       "escalatie": "?",
+       "categorie": "n.t.b.",
+       "verbeteractie": "n.t.b."
+      },
+      {
+       "kpi": "",
+       "datum": "2026-10-15",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "Medewerker vanuit PF aangesproken op dragen van oortjes bij ons op de afdeling",
+       "impact": "",
+       "locatie": "WPL",
+       "prioriteit": "",
+       "escalatie": "N",
+       "categorie": "",
+       "verbeteractie": "Voormannen van PF hierover gesproken"
+      }
+     ]
+    },
+    {
+     "naam": "Kwaliteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "2026-10-15",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Productiviteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "WK 42",
+       "norm": "15",
+       "actueel": "4.4",
+       "afwijking": "Nieuwe medewerker ingewerkt op retouren voor HC.",
+       "impact": "nvt",
+       "locatie": "HC",
+       "prioriteit": "Groen",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "WK 42",
+       "norm": "250",
+       "actueel": "212",
+       "afwijking": "Door het crosstrainen van een Medwerkster heeft het meer tijd gekost bij het scannen",
+       "impact": "Hierdoor word er 2x geklokt op het scannen",
+       "locatie": "WPL/Shute scannen",
+       "prioriteit": "Groen",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "1708",
+       "datum": "week 42",
+       "norm": "13 uur",
+       "actueel": "37 uur",
+       "afwijking": "24 uur teveel geklokt op 1708 - Medewerker hele week niet omgeklokt, alleen op wikkelen kantelen geklokt.",
+       "impact": "Geen",
+       "locatie": "OFM Wikkelen/kantelen",
+       "prioriteit": "Groen",
+       "escalatie": "N",
+       "categorie": "JDI",
+       "verbeteractie": "In gesprek gegaan met de betreffende medewerker en uitgelegd dat het anders moet en dit niet de bedoeling is, het kom bij hem vaker voor dus moeten hier scherper op zijn, we moeten hier ook naar onszelf kijken; als iemand de hele week niet omklokt hadden we eerder moeten ingrijpen."
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Personeel",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "WK 42",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "OFM",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "6 zieken bij elkaar\n3x kort, 3x lang",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    }
+   ],
+   "acties": [
+    {
+     "datum": "2026-10-21",
+     "deadline": "2026-10-30",
+     "omschrijving": "Prestatiesturen tijdstip bespreken ~Jesse"
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ],
+   "pdca": [
+    {
+     "datum": "2026-10-14",
+     "deadline": "2026-10-21",
+     "omschrijving": "Onderzoek doen naar aantallen verdichten rapportage ~ Jesse"
+    },
+    {
+     "datum": "2026-10-14",
+     "deadline": "2026-10-30",
+     "omschrijving": "Trigger voor oude openstaande gepikte orders ~ Dylan"
+    },
+    {
+     "datum": "2026-10-14",
+     "deadline": "2026-10-21",
+     "omschrijving": "Eindrapportage toevoegen alle orders gesloten ~ (onderzoek automatisch sluiten) ~ Dylan"
+    },
+    {
+     "datum": "2026-10-14",
+     "deadline": "2026-10-30",
+     "omschrijving": "PDCA inbound WPL&HC ~ Rakesh en Dylan"
+    },
+    {
+     "datum": "2026-10-07",
+     "deadline": "2026-10-30",
+     "omschrijving": "Magazijnbeheer inventarisatie: Wat is magazijnbeheer (en wat niet) ~ Joris & Jesse & Barry"
+    },
+    {
+     "datum": "2026-08-19",
+     "deadline": "2026-11-04",
+     "omschrijving": "PDCA:  Bulk/legbord verdeling ~ Dylan ~Volgende week eerste pallets - daarna check"
+    },
+    {
+     "datum": "2026-10-21",
+     "deadline": "2026-10-30",
+     "omschrijving": "Prestatiesturen tijdstip bespreken ~Jesse"
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ]
+  },
+  {
+   "week": "Week 43",
+   "sections": [
+    {
+     "naam": "Veiligheid",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "OFM",
+       "datum": "2026-10-20",
+       "norm": "0",
+       "actueel": "1",
+       "afwijking": "Tijdens het parkeren van een SGT, om aanwezig te zijn bij de dag start, is deze tijdens het draaien in botsing gekomen met een een stilstaande SGT, hierdoor is schade aan de mast ontstaan en moest de SGT stil gezet worden.",
+       "impact": "1 dag met 1 SGT minder moeten rijden. Kwaliteit is niet geraakt alle processen zijn bijgehouden en op tijd afgesloten, extras als magazijnbeheer tijdelijk niet/minder kunnen doen.",
+       "locatie": "OFM",
+       "prioriteit": "Oranje",
+       "escalatie": "N",
+       "categorie": "JDI",
+       "verbeteractie": "Afgesproken dat we de trucks voor de dag start in de vakken van het laden parkeren. Als reminder is het verstandig om een alarm 5/10 minuten voor de dag start te zetten zodat je zonder stress naar de dag start kan."
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Kwaliteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "wk43",
+       "norm": "98%",
+       "actueel": "93.6%",
+       "afwijking": "Inbound (deelleveringen en issues)",
+       "impact": "geen vooranmelding of te laat aangeleverd!",
+       "locatie": "HC",
+       "prioriteit": "",
+       "escalatie": "N",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "OFM /Vernietiging (1705)",
+       "datum": "week 43",
+       "norm": "95%",
+       "actueel": "60%",
+       "afwijking": "Van de 5 uitgevoerde tellingen hadden er 2 een verschil, hierdoor de SLA niet gehaald 60% ipv 95% gescoord.",
+       "impact": "Nihil, bij beide verschillen ging het om 1 exemplaar.",
+       "locatie": "OFM Vernietiging",
+       "prioriteit": "groen",
+       "escalatie": "N",
+       "categorie": "",
+       "verbeteractie": "Onderzoeken wat we kunnen doen met minimale verschillen. Moeten we hier ook actie op uitzetten etc."
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Productiviteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "OFM/Vernietiging (1705)",
+       "datum": "Week 43",
+       "norm": "18",
+       "actueel": "14.5",
+       "afwijking": "vanwege storing IBS konden er geen pakketten worden verpakt(systeem)",
+       "impact": "Ja",
+       "locatie": "WPL/7106/7107",
+       "prioriteit": "groen",
+       "escalatie": "N",
+       "categorie": "",
+       "verbeteractie": "IBS heeft dit sinds 27-10 weeer vrijgegeven."
+      },
+      {
+       "kpi": "OFM/Vernietiging (1705)",
+       "datum": "week 43",
+       "norm": "7",
+       "actueel": "5.3",
+       "afwijking": "In week 43 veel DV gehad en meer gepickt dan verwerkt, hierdoor lopen de cijfers scheef.",
+       "impact": "Geen, alle opdrachten zijn binnen SLA verwerkt",
+       "locatie": "OFM/Vernietiging (1705)",
+       "prioriteit": "groen",
+       "escalatie": "N",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Personeel",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "OFM",
+       "datum": "week 43",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "4 X Lang \n3 X kort (2x 2 dagen, 1x 3 dagen)",
+       "impact": "",
+       "locatie": "OFM",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    }
+   ],
+   "acties": [
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ],
+   "pdca": [
+    {
+     "datum": "2026-10-14",
+     "deadline": "2026-10-30",
+     "omschrijving": "Trigger voor oude openstaande gepikte orders ~ Dylan"
+    },
+    {
+     "datum": "2026-10-07",
+     "deadline": "2026-10-30",
+     "omschrijving": "Magazijnbeheer inventarisatie: Wat is magazijnbeheer (en wat niet) ~ Joris & Jesse & Barry"
+    },
+    {
+     "datum": "2026-08-19",
+     "deadline": "2026-11-04",
+     "omschrijving": "PDCA:  Bulk/legbord verdeling ~ Dylan ~Volgende week eerste pallets - daarna check"
+    },
+    {
+     "datum": "2026-10-14",
+     "deadline": "2026-10-30",
+     "omschrijving": "PDCA inbound WPL&HC ~ Rakesh en Dylan"
+    },
+    {
+     "datum": "2026-10-21",
+     "deadline": "2026-10-30",
+     "omschrijving": "Prestatiesturen tijdstip bespreken ~Jesse"
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ]
+  },
+  {
+   "week": "Week 44",
+   "sections": [
+    {
+     "naam": "Veiligheid",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Kwaliteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Productiviteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Personeel",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    }
+   ],
+   "acties": [
+    {
+     "datum": "2026-10-28",
+     "deadline": "2026-11-04",
+     "omschrijving": "Tellingen afwijkingen meteen aangepast? Tot wanneer tellingen vorige week? Afwijking kan ergens anders liggen - wat doen we met kleine aantallen. ~ Jelle - PvdB"
+    },
+    {
+     "datum": "2026-10-28",
+     "deadline": "2026-11-04",
+     "omschrijving": "Wat te doen zonder voormelding? ~ Rakesh"
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ],
+   "pdca": [
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ]
+  },
+  {
+   "week": "Week 45",
+   "sections": [
+    {
+     "naam": "Veiligheid",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Kwaliteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Productiviteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Personeel",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    }
+   ],
+   "acties": [
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ],
+   "pdca": [
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ]
+  },
+  {
+   "week": "Week 46",
+   "sections": [
+    {
+     "naam": "Veiligheid",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Kwaliteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Productiviteit",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    },
+    {
+     "naam": "Personeel",
+     "rows": [
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      },
+      {
+       "kpi": "",
+       "datum": "",
+       "norm": "",
+       "actueel": "",
+       "afwijking": "",
+       "impact": "",
+       "locatie": "",
+       "prioriteit": "",
+       "escalatie": "",
+       "categorie": "",
+       "verbeteractie": ""
+      }
+     ]
+    }
+   ],
+   "acties": [
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ],
+   "pdca": [
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    },
+    {
+     "datum": "",
+     "deadline": "",
+     "omschrijving": ""
+    }
+   ]
+  }
+ ]
+}
