@@ -184,74 +184,88 @@
     {
      "datum": "2026-07-31",
      "deadline": "2026-07-31",
-     "omschrijving": "Just Do It: Gemeld bij TD en is de volgende dag gelijk gefixt."
+     "omschrijving": "Just Do It: Gemeld bij TD en is de volgende dag gelijk gefixt.",
+     "eigenaar": ""
     },
     {
      "datum": "2026-08-03",
      "deadline": "2026-08-03",
-     "omschrijving": "Just Do It:Tijdens de dagstart besproken dat we de hele week+maand onder norm zaten en dat het niet lag aan het klokken. Gister en vandaag was de AV productie er een suk sneller doorheen en op norm."
+     "omschrijving": "Just Do It:Tijdens de dagstart besproken dat we de hele week+maand onder norm zaten en dat het niet lag aan het klokken. Gister en vandaag was de AV productie er een suk sneller doorheen en op norm.",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ],
    "pdca": [
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ]
   },
@@ -439,74 +453,88 @@
     {
      "datum": "",
      "deadline": "2026-08-12",
-     "omschrijving": "Snowflake weer gaan invullen (afgerond & geborgd)"
+     "omschrijving": "Snowflake weer gaan invullen (afgerond & geborgd)",
+     "eigenaar": ""
     },
     {
      "datum": "2026-08-12",
      "deadline": "2026-08-19",
-     "omschrijving": "KPI HC onderzoeken waarom rood op 7-8"
+     "omschrijving": "KPI HC onderzoeken waarom rood op 7-8",
+     "eigenaar": ""
     },
     {
      "datum": "2026-08-12",
      "deadline": "2026-08-13",
-     "omschrijving": "Medewerker die achter vrachtwagen langs fietste aanspreken"
+     "omschrijving": "Medewerker die achter vrachtwagen langs fietste aanspreken",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ],
    "pdca": [
     {
      "datum": "2026-08-06",
      "deadline": "2026-08-10",
-     "omschrijving": "Mogelijkheden bekijken (en eventueel implementeren) om opdrachten waarbij de pallet leeg word gepickt als Full-Pallet uit te laten voeren. (Afgerond)"
+     "omschrijving": "Mogelijkheden bekijken (en eventueel implementeren) om opdrachten waarbij de pallet leeg word gepickt als Full-Pallet uit te laten voeren. (Afgerond)",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "2026-09-01",
-     "omschrijving": "Aanvoer vanuit PF in kaart brengen (lopend)"
+     "omschrijving": "Aanvoer vanuit PF in kaart brengen (lopend)",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ]
   },
@@ -707,74 +735,88 @@
     {
      "datum": "2026-08-19",
      "deadline": "",
-     "omschrijving": "Met Henry en Elvera bespreken: 10 dagen SLA zit WPL outbound SLA in de weg"
+     "omschrijving": "Met Henry en Elvera bespreken: 10 dagen SLA zit WPL outbound SLA in de weg",
+     "eigenaar": ""
     },
     {
      "datum": "2026-08-19",
      "deadline": "",
-     "omschrijving": "BF palletverwerking en doosverwerking uit elkaar halen (plan 2027)"
+     "omschrijving": "BF palletverwerking en doosverwerking uit elkaar halen (plan 2027)",
+     "eigenaar": ""
     },
     {
      "datum": "2026-08-19",
      "deadline": "",
-     "omschrijving": "PDCA: Stock pick vernietiging"
+     "omschrijving": "PDCA: Stock pick vernietiging",
+     "eigenaar": ""
     },
     {
      "datum": "2026-08-19",
      "deadline": "",
-     "omschrijving": "Berekening maken corvee uren per week (onderbouwing voor 2027)"
+     "omschrijving": "Berekening maken corvee uren per week (onderbouwing voor 2027)",
+     "eigenaar": ""
     },
     {
      "datum": "2026-08-19",
      "deadline": "",
-     "omschrijving": "Dagstart weinig input: wat te doen?"
+     "omschrijving": "Dagstart weinig input: wat te doen?",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ],
    "pdca": [
     {
      "datum": "",
      "deadline": "2026-09-01",
-     "omschrijving": "Aanvoer vanuit PF in kaart brengen (lopend)"
+     "omschrijving": "Aanvoer vanuit PF in kaart brengen (lopend)",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "2026-08-12",
-     "omschrijving": "Snowflake weer gaan invullen (afgerond & geborgd)"
+     "omschrijving": "Snowflake weer gaan invullen (afgerond & geborgd)",
+     "eigenaar": ""
     },
     {
      "datum": "2026-08-12",
      "deadline": "2026-08-19",
-     "omschrijving": "KPI HC onderzoeken waarom rood op 7-8"
+     "omschrijving": "KPI HC onderzoeken waarom rood op 7-8",
+     "eigenaar": ""
     },
     {
      "datum": "2026-08-12",
      "deadline": "2026-08-13",
-     "omschrijving": "Medewerker die achter vrachtwagen langs fietste aanspreken"
+     "omschrijving": "Medewerker die achter vrachtwagen langs fietste aanspreken",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ]
   },
@@ -962,74 +1004,88 @@
     {
      "datum": "2026-08-24",
      "deadline": "",
-     "omschrijving": "Corvee uren LDC  wekelijks 30 uren (6S ,LDC pand schoonhouden,kantine en dagelijks  opruimen en aanvullen)"
+     "omschrijving": "Corvee uren LDC  wekelijks 30 uren (6S ,LDC pand schoonhouden,kantine en dagelijks  opruimen en aanvullen)",
+     "eigenaar": ""
     },
     {
      "datum": "2026-08-26",
      "deadline": "2026-09-04",
-     "omschrijving": "RCA retouren SLA"
+     "omschrijving": "RCA retouren SLA",
+     "eigenaar": ""
     },
     {
      "datum": "2026-08-26",
      "deadline": "2026-09-01",
-     "omschrijving": "Afronden tussenevaulaties"
+     "omschrijving": "Afronden tussenevaulaties",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ],
    "pdca": [
     {
      "datum": "",
      "deadline": "2026-09-01",
-     "omschrijving": "Aanvoer vanuit PF in kaart brengen (klaar, staat in Teams.)"
+     "omschrijving": "Aanvoer vanuit PF in kaart brengen (klaar, staat in Teams.)",
+     "eigenaar": ""
     },
     {
      "datum": "2026-08-19",
      "deadline": "week 37",
-     "omschrijving": "Met Henry en Elvera bespreken: 10 dagen SLA zit WPL outbound SLA in de weg"
+     "omschrijving": "Met Henry en Elvera bespreken: 10 dagen SLA zit WPL outbound SLA in de weg",
+     "eigenaar": ""
     },
     {
      "datum": "2026-08-19",
      "deadline": "2026-09-04",
-     "omschrijving": "BF palletverwerking en doosverwerking uit elkaar halen (plan 2027)"
+     "omschrijving": "BF palletverwerking en doosverwerking uit elkaar halen (plan 2027)",
+     "eigenaar": ""
     },
     {
      "datum": "2026-08-19",
      "deadline": "2026-09-09",
-     "omschrijving": "PDCA: Stock pick vernietiging & Bulk/legbord verdeling"
+     "omschrijving": "PDCA: Stock pick vernietiging & Bulk/legbord verdeling",
+     "eigenaar": ""
     },
     {
      "datum": "2026-08-19",
      "deadline": "2026-08-26",
-     "omschrijving": "Berekening maken corvee uren per week (onderbouwing voor 2027)"
+     "omschrijving": "Berekening maken corvee uren per week (onderbouwing voor 2027)",
+     "eigenaar": ""
     },
     {
      "datum": "2026-08-19",
      "deadline": "2026-09-04",
-     "omschrijving": "Dagstart weinig input: wat te doen?"
+     "omschrijving": "Dagstart weinig input: wat te doen?",
+     "eigenaar": ""
     }
    ]
   },
@@ -1217,74 +1273,88 @@
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": "ACTIE RAKESH"
+     "omschrijving": "",
+     "eigenaar": "Rakesh"
     },
     {
      "datum": "2026-09-01",
      "deadline": "2026-09-16",
-     "omschrijving": "3x vrijdagen rood gescoord bij packing/backorders komen ook weleens vrijdag waardoor ik niet kan afschalen/balen van medewerkers dat we rood scoren tijdens dagstart"
+     "omschrijving": "3x vrijdagen rood gescoord bij packing/backorders komen ook weleens vrijdag waardoor ik niet kan afschalen/balen van medewerkers dat we rood scoren tijdens dagstart",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": "Inventariseren wat medewerkers doen buiten inpakken ,of het waarde toegevoegde activiteiten zijn,en hoe lang ze bezig zijn."
+     "omschrijving": "Inventariseren wat medewerkers doen buiten inpakken ,of het waarde toegevoegde activiteiten zijn,en hoe lang ze bezig zijn.",
+     "eigenaar": ""
     },
     {
      "datum": "2026-09-02",
      "deadline": "2026-09-08",
-     "omschrijving": "Aanvraag doen scherm in Atoss met huidige MW en klokcodes waar operators ook bij mogen (Link ontvangen, maar werkt nog niet naar behoren, word vervolgt)"
+     "omschrijving": "Aanvraag doen scherm in Atoss met huidige MW en klokcodes waar operators ook bij mogen (Link ontvangen, maar werkt nog niet naar behoren, word vervolgt)",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ],
    "pdca": [
     {
      "datum": "2026-08-19",
      "deadline": "week 37",
-     "omschrijving": "Met Henry en Elvera bespreken: 10 dagen SLA zit WPL outbound SLA in de weg (Prio is oude orders, besproken met Henry)"
+     "omschrijving": "Met Henry en Elvera bespreken: 10 dagen SLA zit WPL outbound SLA in de weg (Prio is oude orders, besproken met Henry)",
+     "eigenaar": ""
     },
     {
      "datum": "2026-08-19",
      "deadline": "2026-09-04",
-     "omschrijving": "BF palletverwerking en doosverwerking uit elkaar halen (plan 2027)"
+     "omschrijving": "BF palletverwerking en doosverwerking uit elkaar halen (plan 2027)",
+     "eigenaar": ""
     },
     {
      "datum": "2026-08-19",
      "deadline": "2026-09-08",
-     "omschrijving": "PDCA: Stock pick vernietiging & Bulk/legbord verdeling (afgerond, PDCA staat in de lijst)"
+     "omschrijving": "PDCA: Stock pick vernietiging & Bulk/legbord verdeling (afgerond, PDCA staat in de lijst)",
+     "eigenaar": ""
     },
     {
      "datum": "2026-08-19",
      "deadline": "2026-09-04",
-     "omschrijving": "Dagstart weinig input: wat te doen? (Irene heeft input gehad)"
+     "omschrijving": "Dagstart weinig input: wat te doen? (Irene heeft input gehad)",
+     "eigenaar": ""
     },
     {
      "datum": "2026-08-26",
      "deadline": "2026-09-04",
-     "omschrijving": "RCA retouren SLA"
+     "omschrijving": "RCA retouren SLA",
+     "eigenaar": ""
     },
     {
      "datum": "2026-08-26",
      "deadline": "2026-09-21",
-     "omschrijving": "Afronden tussenevaulaties (LDC afgerond)"
+     "omschrijving": "Afronden tussenevaulaties (LDC afgerond)",
+     "eigenaar": ""
     }
    ]
   },
@@ -1485,74 +1555,88 @@
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ],
    "pdca": [
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ]
   },
@@ -1740,74 +1824,88 @@
     {
      "datum": "2026-09-16",
      "deadline": "2026-09-30",
-     "omschrijving": "Juiste afspraken maken over overcapaciteit inzetten OMF/LDC - Jelle"
+     "omschrijving": "Juiste afspraken maken over overcapaciteit inzetten OMF/LDC",
+     "eigenaar": "Jelle"
     },
     {
      "datum": "2026-09-16",
      "deadline": "2026-10-07",
-     "omschrijving": "Evaluatie Educatieve seizoen plannen - Elvera"
+     "omschrijving": "Evaluatie Educatieve seizoen plannen - Elvera",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ],
    "pdca": [
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ]
   },
@@ -1995,59 +2093,70 @@
     {
      "datum": "2026-09-16",
      "deadline": "2026-09-30",
-     "omschrijving": "Juiste afspraken maken over overcapaciteit inzetten OMF/LDC - Jelle"
+     "omschrijving": "Juiste afspraken maken over overcapaciteit inzetten OMF/LDC",
+     "eigenaar": "Jelle"
     },
     {
      "datum": "2026-09-22",
      "deadline": "",
-     "omschrijving": "Bespreken criteria aannemen nieuwe medewerkers.  -Rakesh"
+     "omschrijving": "Bespreken criteria aannemen nieuwe medewerkers",
+     "eigenaar": "Rakesh"
     },
     {
      "datum": "2026-09-23",
      "deadline": "2026-09-30",
-     "omschrijving": "Onderzoek: orders vrijdag 18-9 25% te laat bij weinig aanbod. - Rakesh"
+     "omschrijving": "Onderzoek: orders vrijdag 18-9 25% te laat bij weinig aanbod",
+     "eigenaar": "Rakesh"
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": "Voorbereiding eindejaar: Prognose - Planning - PCR - Locaties - Materieel ~Jesse"
+     "omschrijving": "Voorbereiding eindejaar: Prognose - Planning - PCR - Locaties - Materieel",
+     "eigenaar": "Jesse"
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ],
    "pdca": [
     {
      "datum": "2026-08-19",
      "deadline": "2026-10-07",
-     "omschrijving": "PDCA: Stock pick vernietiging & Bulk/legbord verdeling"
+     "omschrijving": "PDCA: Stock pick vernietiging & Bulk/legbord verdeling",
+     "eigenaar": ""
     },
     {
      "datum": "2026-09-16",
      "deadline": "2026-10-07",
-     "omschrijving": "Evaluatie Educatieve seizoen plannen - Elvera"
+     "omschrijving": "Evaluatie Educatieve seizoen plannen - Elvera",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ]
   },
@@ -2235,89 +2344,106 @@
     {
      "datum": "2026-09-16",
      "deadline": "2026-10-14",
-     "omschrijving": "Juiste afspraken maken over overcapaciteit inzetten OMF/LDC - Jelle"
+     "omschrijving": "Juiste afspraken maken over overcapaciteit inzetten OMF/LDC",
+     "eigenaar": "Jelle"
     },
     {
      "datum": "",
      "deadline": "2026-10-07",
-     "omschrijving": "Vernietiging PCR plannen & 10 dagen SLA"
+     "omschrijving": "Vernietiging PCR plannen & 10 dagen SLA",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ],
    "pdca": [
     {
      "datum": "2026-08-19",
      "deadline": "2026-10-07",
-     "omschrijving": "PDCA:  Bulk/legbord verdeling"
+     "omschrijving": "PDCA:  Bulk/legbord verdeling",
+     "eigenaar": ""
     },
     {
      "datum": "2026-09-16",
      "deadline": "2026-10-07",
-     "omschrijving": "Evaluatie Educatieve seizoen plannen - Elvera"
+     "omschrijving": "Evaluatie Educatieve seizoen plannen - Elvera",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "2026-10-14",
-     "omschrijving": "Voorbereiding eindejaar: Prognose - Planning - PCR - Locaties - Materieel ~Jesse"
+     "omschrijving": "Voorbereiding eindejaar: Prognose - Planning - PCR - Locaties - Materieel",
+     "eigenaar": "Jesse"
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ]
   },
@@ -2518,64 +2644,76 @@
     {
      "datum": "2026-10-07",
      "deadline": "2026-10-14",
-     "omschrijving": "Correcties ATOSS - Henk (en waar moet hij op klokken) ~ Joris"
+     "omschrijving": "Correcties ATOSS - Henk (en waar moet hij op klokken)",
+     "eigenaar": "Joris"
     },
     {
      "datum": "2026-10-07",
      "deadline": "2026-10-14",
-     "omschrijving": "SLA Vernietiging meenemen dagstart ~ Jelle"
+     "omschrijving": "SLA Vernietiging meenemen dagstart",
+     "eigenaar": "Jelle"
     },
     {
      "datum": "2026-10-07",
      "deadline": "2026-10-14",
-     "omschrijving": "Magazijnbeheer inventarisatie ~ Joris"
+     "omschrijving": "Magazijnbeheer inventarisatie",
+     "eigenaar": "Joris"
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ],
    "pdca": [
     {
      "datum": "2026-08-19",
      "deadline": "2026-10-14",
-     "omschrijving": "PDCA:  Bulk/legbord verdeling"
+     "omschrijving": "PDCA:  Bulk/legbord verdeling",
+     "eigenaar": ""
     },
     {
      "datum": "2026-09-16",
      "deadline": "2026-10-14",
-     "omschrijving": "Juiste afspraken maken over overcapaciteit inzetten OMF/LDC - Jelle"
+     "omschrijving": "Juiste afspraken maken over overcapaciteit inzetten OMF/LDC",
+     "eigenaar": "Jelle"
     },
     {
      "datum": "2026-09-16",
      "deadline": "2026-10-14",
-     "omschrijving": "Evaluatie Educatieve seizoen plannen - Elvera"
+     "omschrijving": "Evaluatie Educatieve seizoen plannen - Elvera",
+     "eigenaar": ""
     },
     {
      "datum": "2026-10-07",
      "deadline": "2026-10-14",
-     "omschrijving": "Magazijnbeheer inventarisatie ~ Joris"
+     "omschrijving": "Magazijnbeheer inventarisatie",
+     "eigenaar": "Joris"
     },
     {
      "datum": "2026-10-01",
      "deadline": "2026-10-14",
-     "omschrijving": "Voorbereiding eindejaar: Prognose - Planning - PCR - Locaties - Materieel ~Jesse"
+     "omschrijving": "Voorbereiding eindejaar: Prognose - Planning - PCR - Locaties - Materieel",
+     "eigenaar": "Jesse"
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ]
   },
@@ -2776,84 +2914,100 @@
     {
      "datum": "2026-10-14",
      "deadline": "2026-10-21",
-     "omschrijving": "Onderzoek doen naar aantallen verdichten rapportage ~ Jesse"
+     "omschrijving": "Onderzoek doen naar aantallen verdichten rapportage",
+     "eigenaar": "Jesse"
     },
     {
      "datum": "2026-10-14",
      "deadline": "2026-10-21",
-     "omschrijving": "Trigger voor oude openstaande gepikte orders ~ Dylan"
+     "omschrijving": "Trigger voor oude openstaande gepikte orders",
+     "eigenaar": "Dylan"
     },
     {
      "datum": "2026-10-14",
      "deadline": "2026-10-21",
-     "omschrijving": "Eindrapportage toevoegen alle orders gesloten ~ (onderzoek automatisch sluiten) ~ Dylan"
+     "omschrijving": "Eindrapportage toevoegen alle orders gesloten ~ (onderzoek automatisch sluiten)",
+     "eigenaar": "Dylan"
     },
     {
      "datum": "2026-10-14",
      "deadline": "2026-10-30",
-     "omschrijving": "PDCA inbound WPL&HC ~ Rakesh en Dylan"
+     "omschrijving": "PDCA inbound WPL&HC",
+     "eigenaar": "Rakesh & Dylan"
     },
     {
      "datum": "2026-10-07",
      "deadline": "2026-10-21",
-     "omschrijving": "Magazijnbeheer inventarisatie: Wat is magazijnbeheer (en wat niet) ~ Joris & Jesse"
+     "omschrijving": "Magazijnbeheer inventarisatie: Wat is magazijnbeheer (en wat niet)",
+     "eigenaar": "Joris & Jesse"
     },
     {
      "datum": "2026-08-19",
      "deadline": "2026-10-21",
-     "omschrijving": "PDCA:  Bulk/legbord verdeling ~ Dylan ~Volgende week eerste pallets - daarna check"
+     "omschrijving": "PDCA:  Bulk/legbord verdeling  ~Volgende week eerste pallets - daarna check",
+     "eigenaar": "Dylan"
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ],
    "pdca": [
     {
      "datum": "2026-10-07",
      "deadline": "2026-10-14",
-     "omschrijving": "Correcties ATOSS - Henk (en waar moet hij op klokken) ~ Joris"
+     "omschrijving": "Correcties ATOSS - Henk (en waar moet hij op klokken)",
+     "eigenaar": "Joris"
     },
     {
      "datum": "2026-10-07",
      "deadline": "2026-10-14",
-     "omschrijving": "SLA Vernietiging meenemen dagstart ~ Jelle"
+     "omschrijving": "SLA Vernietiging meenemen dagstart",
+     "eigenaar": "Jelle"
     },
     {
      "datum": "2026-10-07",
      "deadline": "2026-10-14",
-     "omschrijving": "Magazijnbeheer inventarisatie ~ Joris"
+     "omschrijving": "Magazijnbeheer inventarisatie",
+     "eigenaar": "Joris"
     },
     {
      "datum": "2026-08-19",
      "deadline": "2026-10-14",
-     "omschrijving": "PDCA:  Bulk/legbord verdeling"
+     "omschrijving": "PDCA:  Bulk/legbord verdeling",
+     "eigenaar": ""
     },
     {
      "datum": "2026-09-16",
      "deadline": "2026-10-14",
-     "omschrijving": "Juiste afspraken maken over overcapaciteit inzetten OMF/LDC - Jelle"
+     "omschrijving": "Juiste afspraken maken over overcapaciteit inzetten OMF/LDC",
+     "eigenaar": "Jelle"
     },
     {
      "datum": "2026-09-16",
      "deadline": "2026-10-14",
-     "omschrijving": "Evaluatie Educatieve seizoen plannen - Elvera"
+     "omschrijving": "Evaluatie Educatieve seizoen plannen - Elvera",
+     "eigenaar": ""
     },
     {
      "datum": "2026-10-01",
      "deadline": "2026-10-14",
-     "omschrijving": "Voorbereiding eindejaar: Prognose - Planning - PCR - Locaties - Materieel ~Jesse"
+     "omschrijving": "Voorbereiding eindejaar: Prognose - Planning - PCR - Locaties - Materieel",
+     "eigenaar": "Jesse"
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ]
   },
@@ -3067,89 +3221,106 @@
     {
      "datum": "2026-10-21",
      "deadline": "2026-10-30",
-     "omschrijving": "Prestatiesturen tijdstip bespreken ~Jesse"
+     "omschrijving": "Prestatiesturen tijdstip bespreken",
+     "eigenaar": "Jesse"
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ],
    "pdca": [
     {
      "datum": "2026-10-14",
      "deadline": "2026-10-21",
-     "omschrijving": "Onderzoek doen naar aantallen verdichten rapportage ~ Jesse"
+     "omschrijving": "Onderzoek doen naar aantallen verdichten rapportage",
+     "eigenaar": "Jesse"
     },
     {
      "datum": "2026-10-14",
      "deadline": "2026-10-30",
-     "omschrijving": "Trigger voor oude openstaande gepikte orders ~ Dylan"
+     "omschrijving": "Trigger voor oude openstaande gepikte orders",
+     "eigenaar": "Dylan"
     },
     {
      "datum": "2026-10-14",
      "deadline": "2026-10-21",
-     "omschrijving": "Eindrapportage toevoegen alle orders gesloten ~ (onderzoek automatisch sluiten) ~ Dylan"
+     "omschrijving": "Eindrapportage toevoegen alle orders gesloten ~ (onderzoek automatisch sluiten)",
+     "eigenaar": "Dylan"
     },
     {
      "datum": "2026-10-14",
      "deadline": "2026-10-30",
-     "omschrijving": "PDCA inbound WPL&HC ~ Rakesh en Dylan"
+     "omschrijving": "PDCA inbound WPL&HC",
+     "eigenaar": "Rakesh & Dylan"
     },
     {
      "datum": "2026-10-07",
      "deadline": "2026-10-30",
-     "omschrijving": "Magazijnbeheer inventarisatie: Wat is magazijnbeheer (en wat niet) ~ Joris & Jesse & Barry"
+     "omschrijving": "Magazijnbeheer inventarisatie: Wat is magazijnbeheer (en wat niet)",
+     "eigenaar": "Joris & Barry & Jesse"
     },
     {
      "datum": "2026-08-19",
      "deadline": "2026-11-04",
-     "omschrijving": "PDCA:  Bulk/legbord verdeling ~ Dylan ~Volgende week eerste pallets - daarna check"
+     "omschrijving": "PDCA:  Bulk/legbord verdeling  ~Volgende week eerste pallets - daarna check",
+     "eigenaar": "Dylan"
     },
     {
      "datum": "2026-10-21",
      "deadline": "2026-10-30",
-     "omschrijving": "Prestatiesturen tijdstip bespreken ~Jesse"
+     "omschrijving": "Prestatiesturen tijdstip bespreken",
+     "eigenaar": "Jesse"
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ]
   },
@@ -3350,89 +3521,106 @@
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ],
    "pdca": [
     {
      "datum": "2026-10-14",
      "deadline": "2026-10-30",
-     "omschrijving": "Trigger voor oude openstaande gepikte orders ~ Dylan"
+     "omschrijving": "Trigger voor oude openstaande gepikte orders",
+     "eigenaar": "Dylan"
     },
     {
      "datum": "2026-10-07",
      "deadline": "2026-10-30",
-     "omschrijving": "Magazijnbeheer inventarisatie: Wat is magazijnbeheer (en wat niet) ~ Joris & Jesse & Barry"
+     "omschrijving": "Magazijnbeheer inventarisatie: Wat is magazijnbeheer (en wat niet)",
+     "eigenaar": "Joris & Barry & Jesse"
     },
     {
      "datum": "2026-08-19",
      "deadline": "2026-11-04",
-     "omschrijving": "PDCA:  Bulk/legbord verdeling ~ Dylan ~Volgende week eerste pallets - daarna check"
+     "omschrijving": "PDCA:  Bulk/legbord verdeling  ~Volgende week eerste pallets - daarna check",
+     "eigenaar": "Dylan"
     },
     {
      "datum": "2026-10-14",
      "deadline": "2026-10-30",
-     "omschrijving": "PDCA inbound WPL&HC ~ Rakesh en Dylan"
+     "omschrijving": "PDCA inbound WPL&HC",
+     "eigenaar": "Rakesh & Dylan"
     },
     {
      "datum": "2026-10-21",
      "deadline": "2026-10-30",
-     "omschrijving": "Prestatiesturen tijdstip bespreken ~Jesse"
+     "omschrijving": "Prestatiesturen tijdstip bespreken",
+     "eigenaar": "Jesse"
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ]
   },
@@ -3633,89 +3821,106 @@
     {
      "datum": "2026-10-28",
      "deadline": "2026-11-04",
-     "omschrijving": "Tellingen afwijkingen meteen aangepast? Tot wanneer tellingen vorige week? Afwijking kan ergens anders liggen - wat doen we met kleine aantallen. ~ Jelle - PvdB"
+     "omschrijving": "Tellingen afwijkingen meteen aangepast? Tot wanneer tellingen vorige week? Afwijking kan ergens anders liggen - wat doen we met kleine aantallen.  - PvdB",
+     "eigenaar": "Jelle"
     },
     {
      "datum": "2026-10-28",
      "deadline": "2026-11-04",
-     "omschrijving": "Wat te doen zonder voormelding? ~ Rakesh"
+     "omschrijving": "Wat te doen zonder voormelding?",
+     "eigenaar": "Rakesh"
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ],
    "pdca": [
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ]
   },
@@ -3916,89 +4121,106 @@
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ],
    "pdca": [
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ]
   },
@@ -4199,89 +4421,106 @@
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ],
    "pdca": [
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     },
     {
      "datum": "",
      "deadline": "",
-     "omschrijving": ""
+     "omschrijving": "",
+     "eigenaar": ""
     }
    ]
   }
