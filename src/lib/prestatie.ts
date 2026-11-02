@@ -14,8 +14,10 @@ export type KpiRow = {
   verbeteractie: string;
 };
 export type Section = { naam: string; rows: KpiRow[] };
-export type SimpleRow = { datum: string; deadline: string; omschrijving: string };
+export type SimpleRow = { datum: string; deadline: string; eigenaar: string; omschrijving: string };
 export type Week = { week: string; sections: Section[]; acties: SimpleRow[]; pdca: SimpleRow[] };
+
+export const EIGENAAR_OPTIES = ["Rakesh", "Dylan", "Joris", "Jelle", "Barry", "Jesse"];
 
 export const initialWeeks = (raw as { weeks: Week[] }).weeks;
 
