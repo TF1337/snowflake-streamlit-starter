@@ -55,7 +55,12 @@ for name in wb.sheetnames[1:]:
             rows.append(row)
         sections.append({"naam": s, "rows": rows})
     def simple(start, end):
-        return [{"datum": val(ws.cell(r,1)), "deadline": val(ws.cell(r,2)), "omschrijving": val(ws.cell(r,3))} for r in range(start, end)]
+        rows = []
+        for r in range(start, end):
+            oms, eigenaar = split_owner(val(ws.cell(r,3)))
+            rows.append({"datum": val(ws.cell(r,1)), "deadline": val(ws.cell(r,2)),
+                         "eigenaar": eigenaar, "omschrijving": oms})
+        return rows
     weeks.append({"week": name, "sections": sections,
                   "acties": simple(acties+2, pdca), "pdca": simple(pdca+2, ws.max_row+1)})
 
